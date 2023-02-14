@@ -1,0 +1,20 @@
+{
+  "name": "reto-1",
+  "version": "1.0.0",
+  "description": "Reto-1 Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Michael Saénz and Andres Velez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
